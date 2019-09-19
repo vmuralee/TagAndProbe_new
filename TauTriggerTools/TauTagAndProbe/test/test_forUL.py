@@ -5,6 +5,7 @@ process = cms.Process("TagAndProbe")
 import os
 
 isMC = True
+isGenTau = True
 useGenMatch = False
 useCustomHLT = False
 
